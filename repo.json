@@ -13,16 +13,16 @@
       "iconUri": "https://raw.githubusercontent.com/NicholasBly/youtube-webos/main/assets/icon.png",
       "manifest": {
         "id": "youtube.leanback.v4",
-        "version": "0.7.6",
+        "version": "0.7.7",
         "type": "web",
         "title": "YouTube AdFree",
         "appDescription": "YouTube AdFree",
         "iconUri": "https://raw.githubusercontent.com/NicholasBly/youtube-webos/main/assets/icon.png",
         "sourceUrl": "https://github.com/NicholasBly/youtube-webos",
         "rootRequired": false,
-        "ipkUrl": "https://github.com/NicholasBly/youtube-webos/releases/download/0.7.6/youtube.leanback.v4_0.7.6_all.ipk",
+        "ipkUrl": "https://github.com/NicholasBly/youtube-webos/releases/download/0.7.7/youtube.leanback.v4_0.7.7_all.ipk",
         "ipkHash": {
-          "sha256": "3aa2fb10d8b1bb21ad3dd8c146fcd0b061a791653aad7d9fc22d14eb5877a9aa"
+          "sha256": "accec0597440d0151d1f1a409ce05aae2a427885cd569aa922562f7117d157eb"
         }
       }
     },
@@ -33,16 +33,16 @@
       "iconUri": "https://raw.githubusercontent.com/NicholasBly/youtube-webos/main/assets/icon.png",
       "manifest": {
         "id": "youtube.leanback.v4.webos22",
-        "version": "0.7.6",
+        "version": "0.7.7",
         "type": "web",
         "title": "YouTube AdFree (webOS 22+)",
         "appDescription": "YouTube AdFree for webOS 22 and newer. Lighter optimized build supporting newer hardware.",
         "iconUri": "https://raw.githubusercontent.com/NicholasBly/youtube-webos/main/assets/icon.png",
         "sourceUrl": "https://github.com/NicholasBly/youtube-webos",
         "rootRequired": false,
-        "ipkUrl": "https://github.com/NicholasBly/youtube-webos/releases/download/0.7.6/youtube.leanback.v4_0.7.6_all_webOS22%2B.ipk",
+        "ipkUrl": "https://github.com/NicholasBly/youtube-webos/releases/download/0.7.7/youtube.leanback.v4_0.7.7_all_webOS22%2B.ipk",
         "ipkHash": {
-          "sha256": "40e408f33314e70ebeff19aadfa33d4de9b68cbcecdc9cd25163c878636e6edb"
+          "sha256": "242823e140e155f345ce7f1b52b0540e8f73c13f68c7c817c8f3f9928f3e7296"
         }
       }
     }
